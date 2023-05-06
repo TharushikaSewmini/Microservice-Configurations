@@ -10,7 +10,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/sanuv9683/config.git
+          uri: https://github.com/TharushikaSewmini/Microservice-Configurations.git
         default-label: master
 
 
